@@ -12,7 +12,7 @@ This project was developed as an internship assignment to demonstrate full-stack
 https://your-frontend-url.vercel.app
 
 ## Backend API (Railway)
-https://your-backend-url.up.railway.app
+https://team-task-manager-production-2c2a.up.railway.app
 
 ---
 
